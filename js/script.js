@@ -11,4 +11,9 @@ $(document).ready(function() {
         var totalScore;
     });
 
+function Question1 (answer){
+    if (1){
+        
+    }
+}
 });
